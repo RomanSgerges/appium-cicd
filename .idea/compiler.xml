@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="NEW-APP-step6" />
+        <module name="NEW-APP" />
+        <module name="NEW-APP-step8" />
+        <module name="NEW-APP-step1" />
+        <module name="NEW-APP-step2" />
+        <module name="NEW-APP-step3" />
+        <module name="NEW-APP-step4" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

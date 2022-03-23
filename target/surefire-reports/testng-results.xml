@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27620" started-at="2022-03-23T15:36:49 EET" finished-at="2022-03-23T15:37:16 EET">
+    <groups>
+    </groups>
+    <test name="pixel_2" duration-ms="27620" started-at="2022-03-23T15:36:49 EET" finished-at="2022-03-23T15:37:16 EET">
+      <class name="tests.LoginTests">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:tests.LoginTests@44f75083]" name="beforeSuite" is-config="true" duration-ms="2956" started-at="2022-03-23T15:36:46 EET" finished-at="2022-03-23T15:36:49 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@44f75083]" name="beforeTest" is-config="true" duration-ms="15983" started-at="2022-03-23T15:36:49 EET" finished-at="2022-03-23T15:37:05 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pixel_3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.LoginTests@44f75083]" name="beforeClass" is-config="true" duration-ms="8" started-at="2022-03-23T15:37:05 EET" finished-at="2022-03-23T15:37:05 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTests@44f75083]" name="beforeMethod" is-config="true" duration-ms="982" started-at="2022-03-23T15:37:05 EET" finished-at="2022-03-23T15:37:06 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.LoginTests@44f75083]" name="beforeMethod" is-config="true" duration-ms="238" started-at="2022-03-23T15:37:06 EET" finished-at="2022-03-23T15:37:06 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTests.emptyInputsLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="emptyInputsLogin()[pri:0, instance:tests.LoginTests@44f75083]" name="emptyInputsLogin" duration-ms="3776" started-at="2022-03-23T15:37:06 EET" finished-at="2022-03-23T15:37:10 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyInputsLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTests@44f75083]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-03-23T15:37:10 EET" finished-at="2022-03-23T15:37:10 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTests@44f75083]" name="afterMethod" is-config="true" duration-ms="1298" started-at="2022-03-23T15:37:10 EET" finished-at="2022-03-23T15:37:11 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=emptyInputsLogin status=SUCCESS method=LoginTests.emptyInputsLogin()[pri:0, instance:tests.LoginTests@44f75083] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTests@44f75083]" name="beforeMethod" is-config="true" duration-ms="640" started-at="2022-03-23T15:37:11 EET" finished-at="2022-03-23T15:37:12 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.LoginTests@44f75083]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2022-03-23T15:37:12 EET" finished-at="2022-03-23T15:37:12 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTests.successLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="successLogin()[pri:0, instance:tests.LoginTests@44f75083]" name="successLogin" duration-ms="2292" started-at="2022-03-23T15:37:12 EET" finished-at="2022-03-23T15:37:14 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTests@44f75083]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-03-23T15:37:14 EET" finished-at="2022-03-23T15:37:14 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTests@44f75083]" name="afterMethod" is-config="true" duration-ms="1893" started-at="2022-03-23T15:37:14 EET" finished-at="2022-03-23T15:37:16 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=successLogin status=SUCCESS method=LoginTests.successLogin()[pri:0, instance:tests.LoginTests@44f75083] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:tests.LoginTests@44f75083]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-03-23T15:37:16 EET" finished-at="2022-03-23T15:37:16 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.LoginTests@44f75083]" name="afterTest" is-config="true" duration-ms="1" started-at="2022-03-23T15:37:16 EET" finished-at="2022-03-23T15:37:16 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:tests.LoginTests@44f75083]" name="afterSuite" is-config="true" duration-ms="52" started-at="2022-03-23T15:37:16 EET" finished-at="2022-03-23T15:37:16 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.LoginTests -->
+    </test> <!-- pixel_2 -->
+  </suite> <!-- Suite -->
+</testng-results>

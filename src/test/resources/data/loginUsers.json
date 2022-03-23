@@ -1,0 +1,68 @@
+{
+  "validUser": {
+    "username": "romany1@gmail.com",
+    "password": "11111123"
+  },
+
+  "invalidUser": {
+    "username": "invalidUserName",
+    "password": "1111123"
+  },
+  "invalidPassword": {
+    "username": "romany60@gmail.com",
+    "password": "wrongPassword"
+  },
+
+  "register": {
+    "email": "romany101@gmail.com",
+    "fullname": "romany hello101",
+    "username": "romann hello7",
+    "phone": "01234567382",
+    "password": "11111123",
+    "repassword": "11111123"
+  },
+
+  "register3char": {
+    "email": "romanyu4@gmail.com",
+    "fullname": "romany Testeru4",
+    "username": "tom",
+    "phone": "01234567382",
+    "password": "11111123",
+    "repassword": "11111123"
+  },
+
+  "register3charsymbol": {
+    "email": "romanyr4@gmail.com",
+    "fullname": "romany Testerr4",
+    "username": "t_m",
+    "phone": "01234567382",
+    "password": "11111123",
+    "repassword": "11111123"
+  },
+  "register5charsymbol": {
+    "email": "romanyt4@gmail.com",
+    "fullname": "romany Testert4",
+    "username": "tom_z",
+    "phone": "01234567382",
+    "password": "11111123",
+    "repassword": "11111123"
+  },
+
+
+  "invregister": {
+    "email": "romany5958890904274",
+    "fullname": "roman",
+    "username": "romany",
+    "phone": "65755757",
+    "password": "11111178",
+    "repassword": "11111123"
+  },
+  "usedEmail": {
+      "email": "romany1@gmail.com",
+      "fullname": "romany Tester",
+      "username": "romany63",
+      "phone": "01234567382",
+      "password": "11111123",
+      "repassword": "11111123"
+    }
+  }

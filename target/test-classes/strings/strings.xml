@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- Error Text Register page -->
+    <string name="required_fields">Fill all required fields</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="used_email">email is used</string>
+    <string name="err_invalid_username_or_password">Username and password do not match any user in this service.</string>
+
+     <!--Error text Login page -->
+    <string name="wrong_credentials">wrong_credentials</string>
+
+
+    <!--add strings for assert-->
+    <string name="button_name">Sign In</string>
+</resources>

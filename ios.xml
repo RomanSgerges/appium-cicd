@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+
+    <test name="iphone11">
+<!--
+        //call the TestListeners class to all the testNg xml
+-->
+        <listeners>
+            <listener class-name = "com.qa.listeners.TestListener"/>
+        </listeners>
+
+<!--
+        // add device parameters
+-->
+        <parameter name ="emulator" value ="true"/>
+        <parameter name ="platformName" value ="ios"/>
+        <parameter name ="deviceName" value ="iphone11"/> //my device name = "Pixel_3"
+        <parameter name ="udid" value ="emulator-5554"/>
+        <parameter name="systemPort" value="10000"/>
+        <parameter name="chromeDriverPort" value="11000"/>
+
+
+
+        <classes>
+            <!--          //start register test
+              <class name="tests.RegisterTests">
+                  &lt;!&ndash;// run only one test case&ndash;&gt;
+                  &lt;!&ndash; <methods>
+                       <include name = "successLogin"/>
+                   </methods>
+                   &ndash;&gt;
+
+              </class>-->
+<!--
+                //  start login test
+-->
+            <class name="tests.LoginTests">
+
+                <!--// run only one test case-->
+               <!-- <methods>
+                    <include name = "successLogin"/>
+                </methods>
+                -->
+            </class>
+
+
+             <!--   // start homePage test
+                <class name="tests.HomeTests">
+                    &lt;!&ndash;// run only one test case&ndash;&gt;
+                    &lt;!&ndash;  <method>
+                         <include name = "voteLeft"/>
+                      </method>&ndash;&gt;
+                </class>-->
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

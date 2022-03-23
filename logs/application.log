@@ -1,0 +1,167 @@
+[INFO ] 2022-03-21 16:47:31.221 BaseTest:90 - This is info message
+[ERROR] 2022-03-21 16:47:31.227 BaseTest:91 - This is error message
+[DEBUG] 2022-03-21 16:47:31.228 BaseTest:92 - This is debug message
+[WARN ] 2022-03-21 16:47:31.229 BaseTest:93 - This is warn message
+[INFO ] 2022-03-21 17:23:23.175 BaseTest:123 - appnull
+[INFO ] 2022-03-21 17:23:40.267 LoginPage:47 - press second button
+[INFO ] 2022-03-21 17:23:43.083 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-21 17:23:45.966 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-21 17:23:46.266 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-21 17:23:47.436 LoginPage:47 - press second button
+[INFO ] 2022-03-22 11:22:30.954 BaseTest:143 - appnull
+[INFO ] 2022-03-22 11:24:27.670 BaseTest:143 - appnull
+[INFO ] 2022-03-22 11:25:27.810 LoginPage:47 - press second button
+[INFO ] 2022-03-22 11:25:30.704 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 11:25:44.223 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 11:25:45.575 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 11:25:46.313 LoginPage:47 - press second button
+[INFO ] 2022-03-22 11:26:43.174 BaseTest:143 - appnull
+[INFO ] 2022-03-22 11:27:21.080 LoginPage:47 - press second button
+[INFO ] 2022-03-22 11:27:25.016 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 11:27:38.453 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 11:27:39.389 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 11:27:40.673 LoginPage:47 - press second button
+[INFO ] 2022-03-22 11:48:12.589 BaseTest:144 - appnull
+[INFO ] 2022-03-22 11:48:31.775 LoginPage:47 - press second button
+[INFO ] 2022-03-22 11:48:34.492 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 11:48:37.405 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 11:48:37.750 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 11:48:39.052 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:20:06.624 BaseTest:147 - appnull
+[INFO ] 2022-03-22 12:20:22.857 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:20:25.437 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 12:20:27.568 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 12:20:29.018 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 12:20:30.428 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:20:33.927 BaseTest:97 - Appium server stopped
+[INFO ] 2022-03-22 12:21:07.499 BaseTest:147 - appnull
+[INFO ] 2022-03-22 12:21:26.490 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:21:29.641 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 12:21:32.304 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 12:21:32.616 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 12:21:33.411 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:21:37.260 BaseTest:97 - Appium server stopped
+[INFO ] 2022-03-22 12:22:28.345 BaseTest:147 - appnull
+[INFO ] 2022-03-22 12:22:46.796 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:22:49.774 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 12:22:52.544 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 12:22:52.899 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 12:22:53.607 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:22:56.534 BaseTest:97 - Appium server stopped
+[INFO ] 2022-03-22 12:23:30.308 BaseTest:147 - appnull
+[INFO ] 2022-03-22 12:23:49.107 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:23:52.256 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 12:23:55.212 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 12:23:56.057 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 12:23:57.500 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:24:00.716 BaseTest:97 - Appium server stopped
+[INFO ] 2022-03-22 12:29:38.563 BaseTest:145 - appnull
+[INFO ] 2022-03-22 12:30:10.623 BaseTest:145 - appnull
+[INFO ] 2022-03-22 12:30:27.390 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:30:30.782 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 12:30:32.437 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 12:30:33.548 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 12:30:34.854 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:30:37.609 BaseTest:95 - Appium server stopped
+[INFO ] 2022-03-22 12:31:23.158 BaseTest:145 - appnull
+[INFO ] 2022-03-22 12:31:46.040 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:31:49.319 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 12:31:52.199 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 12:31:52.519 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 12:31:53.821 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:31:57.119 BaseTest:95 - Appium server stopped
+[INFO ] 2022-03-22 12:32:55.791 BaseTest:145 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-22 12:33:11.743 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:33:15.052 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 12:33:17.999 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 12:33:18.925 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 12:33:19.710 LoginPage:47 - press second button
+[INFO ] 2022-03-22 12:33:22.953 BaseTest:95 - Appium server stopped
+[INFO ] 2022-03-22 13:03:40.214 BaseTest:145 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-22 13:03:58.768 LoginPage:47 - press second button
+[INFO ] 2022-03-22 13:04:01.999 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 13:04:04.448 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 13:04:04.768 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 13:04:06.098 LoginPage:47 - press second button
+[INFO ] 2022-03-22 13:04:09.813 BaseTest:95 - Appium server stopped
+[INFO ] 2022-03-22 13:30:56.230 BaseTest:148 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-22 13:31:14.801 LoginPage:47 - press second button
+[INFO ] 2022-03-22 13:31:18.046 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 13:31:20.945 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 13:31:21.322 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 13:31:22.757 LoginPage:47 - press second button
+[INFO ] 2022-03-22 13:31:26.106 BaseTest:98 - Appium server stopped
+[INFO ] 2022-03-22 13:33:02.791 BaseTest:148 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-22 13:33:20.864 LoginPage:47 - press second button
+[INFO ] 2022-03-22 13:34:59.002 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 13:35:01.706 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 13:35:02.111 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 13:35:03.875 LoginPage:47 - press second button
+[INFO ] 2022-03-22 13:35:09.573 BaseTest:98 - Appium server stopped
+[INFO ] 2022-03-22 13:35:41.864 BaseTest:148 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-22 13:35:58.140 LoginPage:47 - press second button
+[INFO ] 2022-03-22 13:36:00.971 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 13:36:02.509 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 13:36:03.707 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 13:36:04.479 LoginPage:47 - press second button
+[INFO ] 2022-03-22 13:36:08.011 BaseTest:98 - Appium server stopped
+[INFO ] 2022-03-22 15:42:20.219 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-22 15:42:39.574 LoginPage:47 - press second button
+[INFO ] 2022-03-22 15:42:42.400 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 15:42:44.552 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 15:42:45.362 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 15:42:46.092 LoginPage:47 - press second button
+[INFO ] 2022-03-22 15:42:48.564 BaseTest:96 - Appium server stopped
+[INFO ] 2022-03-22 16:39:24.816 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-22 16:39:44.947 LoginPage:47 - press second button
+[INFO ] 2022-03-22 16:39:48.024 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 16:39:51.647 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 16:39:52.459 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 16:39:53.659 LoginPage:47 - press second button
+[INFO ] 2022-03-22 16:39:59.987 BaseTest:96 - Appium server stopped
+[INFO ] 2022-03-22 16:48:09.637 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-22 16:48:25.430 LoginPage:47 - press second button
+[INFO ] 2022-03-22 16:48:28.342 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 16:48:31.458 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 16:48:32.267 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 16:48:33.505 LoginPage:47 - press second button
+[INFO ] 2022-03-22 16:48:36.543 BaseTest:96 - Appium server stopped
+[INFO ] 2022-03-22 17:56:31.338 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-22 17:56:49.510 LoginPage:47 - press second button
+[INFO ] 2022-03-22 17:56:52.304 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-22 17:56:55.313 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-22 17:56:56.069 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-22 17:56:57.290 LoginPage:47 - press second button
+[INFO ] 2022-03-22 17:57:00.669 BaseTest:96 - Appium server stopped
+[INFO ] 2022-03-23 15:06:03.590 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-23 15:06:29.339 LoginPage:47 - press second button
+[INFO ] 2022-03-23 15:06:32.562 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-23 15:06:35.414 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-23 15:06:35.800 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-23 15:06:37.060 LoginPage:47 - press second button
+[INFO ] 2022-03-23 15:06:43.241 BaseTest:96 - Appium server stopped
+[INFO ] 2022-03-23 15:06:51.310 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-23 15:09:01.123 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-23 15:09:45.153 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-23 15:10:01.308 LoginPage:47 - press second button
+[INFO ] 2022-03-23 15:10:04.066 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-23 15:10:06.938 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-23 15:10:07.220 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-23 15:10:07.994 LoginPage:47 - press second button
+[INFO ] 2022-03-23 15:10:10.968 BaseTest:96 - Appium server stopped
+[INFO ] 2022-03-23 15:15:12.907 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-23 15:15:31.914 LoginPage:47 - press second button
+[INFO ] 2022-03-23 15:15:34.975 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-23 15:15:37.888 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-23 15:15:38.248 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-23 15:15:39.460 LoginPage:47 - press second button
+[INFO ] 2022-03-23 15:15:43.795 BaseTest:96 - Appium server stopped
+[INFO ] 2022-03-23 15:15:49.905 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-23 15:19:29.639 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-23 15:36:49.720 BaseTest:146 - app http://0.0.0.0:4723/wd/hub
+[INFO ] 2022-03-23 15:37:07.360 LoginPage:47 - press second button
+[INFO ] 2022-03-23 15:37:10.291 LoginPage:59 - error text is - Fill all required fields
+[INFO ] 2022-03-23 15:37:13.112 LoginPage:36 - login with romany1@gmail.com
+[INFO ] 2022-03-23 15:37:13.440 LoginPage:42 - password is 11111123
+[INFO ] 2022-03-23 15:37:14.180 LoginPage:47 - press second button
+[INFO ] 2022-03-23 15:37:16.945 BaseTest:96 - Appium server stopped
